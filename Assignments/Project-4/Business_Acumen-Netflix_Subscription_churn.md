@@ -1,4 +1,5 @@
 # Project -4 Business Acumen - Netflix Subscription Churn
+![Netflix Banner](../../images/thibault-penin-GrzoKN1aqSg-unsplash.jpg)
 
 ## Problem
 
