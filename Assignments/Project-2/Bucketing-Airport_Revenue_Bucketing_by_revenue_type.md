@@ -1,7 +1,7 @@
 
 # Airport Revenue Streams, Bucketing by type — MECE Framework
 
-![Bucketing - Revenue Types](../../images/Airport_Banner.png)
+![Bucketing - Revenue Types](../../images/airport_banner.png)
 
 ## 1. Problem
 
