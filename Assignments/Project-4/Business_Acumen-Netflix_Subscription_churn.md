@@ -13,4 +13,4 @@
 
 <!-- Insert image here -->
 
-![Business Acumen - Netflix Subscription Churn](image.png)
+![Business Acumen - Netflix Subscription Churn](Netflix_churn_reduce_mindmap.png)
