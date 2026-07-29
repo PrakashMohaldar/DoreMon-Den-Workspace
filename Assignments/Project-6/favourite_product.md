@@ -8,7 +8,7 @@
 
 ---
 
-[![CarryKart Student Growth Strategy](../../images/CarryKart_ppt_preview.png)](./CarryKart_Favorite_Product_Deck.pptx.ppt)
+[![CarryKart Student Growth Strategy](../../images/CarryKart_ppt_preview.png)](../../images/CarryKart_Favorite_Product_Deck.pptx)
 
 > Click the preview to open the full presentation.
 ## 1. Product & Favourite Feature
