@@ -1,6 +1,8 @@
 
 # Airport Revenue Streams, Bucketing by type — MECE Framework
 
+![Bucketing - Revenue Types](../../images/Airport_Banner.png)
+
 ## 1. Problem
 
 Airport revenue is often viewed primarily through aeronautical fees, making it difficult to systematically identify and compare **non-aeronautical revenue opportunities** across airports.
@@ -68,4 +70,6 @@ It shifts the strategic lens from simply increasing passenger volumes toward **i
 ## 9. Portfolio / Resume Relevance
 
 > **Identified 20+ airport revenue flows through a MECE framework, benchmarking global airport revenue mixes and prioritizing high-growth, high-margin commercial and asset-monetization opportunities.**
+<!-- Insert image here -->
 
+![Business Acumen - Bucketing Airport Revenue By Type](../../images/Bucketing_Airport_Revenue_By_Type.png)
