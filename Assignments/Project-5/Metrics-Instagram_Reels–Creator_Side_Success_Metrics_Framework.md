@@ -1,3 +1,4 @@
+![Instagram Reels Success Matrix](../../images/instagram_banner.jpg)
 ## Problem
 
 Instagram wants to increase **average time spent per user per day** by scaling Reels. However, sustainable Reels growth depends on a healthy and consistent **creator supply**. The challenge is to define the right creator-side metrics to determine whether Reels is building a sustainable content ecosystem.
@@ -113,6 +114,7 @@ The complete **Creator Metrics Framework** covers:
 
 **Creation Volume & Frequency · Creator Activation · Creator Retention · Distribution & Reach · Engagement · Monetization · Referral & Virality · Creator Satisfaction · Content Quality · Technical Reliability**
 
+![Instagram Reels Success Matrix](../../images/insta_reels_strategies.png)
 
 ### Creator Metrics Table
 
