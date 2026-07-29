@@ -69,4 +69,4 @@ Addressing high-impact churn drivers can improve customer retention, increase li
 
 <!-- Insert image here -->
 
-![Business Acumen - Netflix Subscription Churn](Netflix_churn_reduce_mindmap.png)
+![Business Acumen - Netflix Subscription Churn](../../images/Netflix_churn_reduce_mindmap.png)
